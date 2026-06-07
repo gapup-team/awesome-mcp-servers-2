@@ -360,6 +360,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
 
 <br />
+- <img src="https://mcp.gapup.io/icon.png" height="14"/> [Gapup MCP](https://github.com/getgapup/gapup-mcp) - 271 agent-payable tools: competitive intelligence, market & financial data (FX, rates), KYC/entity & sanctions, EU AI Act/GDPR compliance, ESG. Remote Streamable HTTP, free discovery tier, x402 per-call.
 
 ## 🤝 <a name="ai-services"></a>AI Services
 
